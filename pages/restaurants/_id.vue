@@ -14,7 +14,7 @@
           >
             <div class="uk-card uk-card-default">
               <div class="uk-card-media-top">
-                <img :src="'https://cryptic-woodland-53964.herokuapp.com/' + dish.image.url" alt="" />
+                <img :src="'https://cryptic-woodland-53964.herokuapp.com' + dish.image.url" alt="" />
               </div>
               <div class="uk-card-body">
                 <h3 class="uk-card-title">
