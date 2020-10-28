@@ -18,7 +18,7 @@
     >
       <div class="uk-card-media-left uk-cover-container">
         <img
-          :src="'http://localhost:1337' + restaurant.image.url"
+          :src="'https://cryptic-woodland-53964.herokuapp.com' + restaurant.image.url"
           alt=""
           uk-cover
         />
